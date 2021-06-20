@@ -1,0 +1,27 @@
+.status-bar {
+  position: fixed;
+  top: 0; /* position fixed 수행시 fixed된 element들의 첫 위치는
+             다음 element위치에 위치하기 때문에 */
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+
+.status-bar__column {
+  width: 33%;
+}
+
+.status-bar__column:nth-child(2) {
+  display: flex;
+}
+
+.status-bar__column:last-child {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.status-bar__column .fas {
+  margin: 0px 5px;
+}

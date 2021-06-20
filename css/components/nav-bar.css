@@ -1,0 +1,42 @@
+.nav {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 5px;
+}
+
+.nav__list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav__link {
+  color: black;
+  opacity: 0.8;
+  position: relative;
+}
+
+#nav__notification__num {
+  background-color: tomato;
+  text-decoration: none;
+  font-size: 40%;
+  font-weight: 600;
+  width: 10px;
+  height: 10px;
+  display: flex;
+  border-radius: 5px;
+  color: white;
+  justify-content: center;
+  position: absolute;
+  left: 10px; /* absolute를 쓰기 위해선 parent element가 relative여야 한다. */
+}
+
+#nav__notification__chk {
+  width: 3px;
+  height: 3px;
+  border-radius: 1.5px;
+  background-color: tomato;
+  position: absolute;
+  left: 14px;
+}

@@ -1,0 +1,23 @@
+.menu-bar {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  margin: 0px 10px;
+  top: 40px;
+  align-items: center;
+}
+.menu-bar__title {
+  font-weight: bold;
+  font-size: 150%;
+  padding: 0px 10px;
+}
+.menu-bar__sub {
+  display: flex;
+}
+
+.menu-bar__link {
+  margin: 0px 10px;
+  color: black;
+  opacity: 0.8;
+  align-items: center;
+}
