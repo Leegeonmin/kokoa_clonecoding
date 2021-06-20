@@ -1,0 +1,46 @@
+#friend-name {
+  background-color: gainsboro;
+
+  /* align-items: center;  - > */
+  display: flex;
+  justify-content: center;
+  margin-top: 15%;
+  padding: 10px;
+}
+
+#friend-name .name-icon {
+  margin-right: 10px;
+}
+#friend-name #friend-string {
+  margin-right: 20px;
+}
+
+.friends-channel {
+  display: flex;
+  justify-content: space-between;
+}
+
+#channel-string {
+  padding: 10px;
+}
+
+.channel-icon {
+  padding: 10px;
+  vertical-align: middle;
+}
+
+.friends-user {
+  margin: 15px;
+}
+
+#user-img {
+  width: 40px;
+  height: 40px;
+  vertical-align: middle;
+  border-radius: 30%;
+  margin-right: 10px;
+}
+
+#user-string2 {
+  padding-left: 320px;
+}
