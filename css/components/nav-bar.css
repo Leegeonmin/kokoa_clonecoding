@@ -5,6 +5,7 @@
   box-sizing: border-box;
   padding: 5px;
   background-color: floralwhite;
+  border-top: 1px solid rgb(197, 197, 196);
 }
 
 .nav__list {
