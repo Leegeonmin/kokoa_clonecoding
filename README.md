@@ -19,3 +19,8 @@
 nav-bar의 아이콘만 변경하고 status-bar, menu-bar, nav-bar를 재사용하였다.
 채팅창의 경우 chats.css를 이용하여 새로만들었다.
 ```
+
+
+## 4. Find
+
+![find](https://user-images.githubusercontent.com/74194550/122799985-5e903500-d2fd-11eb-9628-916aeb523658.png)
