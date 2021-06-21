@@ -12,7 +12,7 @@
 @import "screens/welcome-header.css";
 @import "screens/input-form.css";
 @import "screens/friend.css";
-
+@import "screens/chats.css";
 body {
   font-family: "Open Sans Condensed", sans-serif;
   height: 1000vh;

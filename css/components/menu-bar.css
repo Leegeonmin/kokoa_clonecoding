@@ -20,4 +20,16 @@
   color: black;
   opacity: 0.8;
   align-items: center;
+
 }
+
+.menu-bar__cross {
+  font-size: 5px;
+  position: absolute;
+  right : 69px; 
+  top: 6px;
+}
+/* position -> static : default, top,bottom,left,right 사용불가
+            -> relative : 원래static에서의 위치. 원래 static위치에는 다른 컨텐츠 위치 불가
+            -> fixed : 화면에 보이는 위치가 기준
+            -> absolute : parent 엘리먼트와의 상대적 위치
