@@ -17,5 +17,5 @@
 
 ``` 
 nav-bar의 아이콘만 변경하고 status-bar, menu-bar, nav-bar를 재사용하였다.
-    채팅창의 경우 chats.css를 이용하여 새로만들었다.
+채팅창의 경우 chats.css를 이용하여 새로만들었다.
 ```
