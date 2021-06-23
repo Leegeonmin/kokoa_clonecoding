@@ -1,0 +1,94 @@
+.more-profile {
+  position: relative;
+  top: 40px;
+  display: flex;
+  align-items: center;
+  border-bottom: none;
+}
+
+#self-profile__num {
+  padding-left: 10px;
+  font-size: 80%;
+  padding-top: 5px;
+}
+
+.self-profile__notice {
+  padding-left: 10px;
+}
+
+.fa-clipboard-list {
+  position: relative;
+  right: -250px;
+  color: black;
+}
+#more-func {
+  position: relative;
+  top: 60px;
+  border-bottom: 1px solid gainsboro;
+  padding-bottom: 20px;
+  opacity: 0.8;
+}
+#more-func__list {
+  position: relative;
+  padding-right: 30px;
+  padding-left: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#more-func__obj {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  color: black;
+}
+
+#more-func__string {
+  padding-top: 10px;
+  font-size: 80%;
+}
+
+#more-func__list2 {
+  position: relative;
+  padding-top: 20px;
+  display: flex;
+  justify-content: flex-start;
+  left: 35px;
+}
+
+.more-func__list2_last {
+  position: relative;
+  left: 70px;
+}
+
+#more-suggestions {
+  position: relative;
+  top: 80px;
+  left: 20px;
+}
+
+#more-suggestions__title {
+  font-weight: bold;
+}
+
+#more-suggestions__img {
+  width: 30px;
+  height: 30px;
+  border-radius: 30%;
+  margin-bottom: 5px;
+}
+
+#more-suggestions__sub {
+  display: flex;
+  padding-top: 20px;
+  padding-left: 10px;
+}
+#more-suggestions__set {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: black;
+  font-size: 80%;
+  margin-right: 20px;
+}
