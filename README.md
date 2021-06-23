@@ -24,3 +24,11 @@ nav-bar의 아이콘만 변경하고 status-bar, menu-bar, nav-bar를 재사용�
 ## 4. Find
 
 ![find](https://user-images.githubusercontent.com/74194550/122799985-5e903500-d2fd-11eb-9628-916aeb523658.png)
+
+
+## 5. More
+
+![more](https://user-images.githubusercontent.com/74194550/123030871-65fb2f80-d41e-11eb-919f-2fbd1aba9d65.png)
+
+
+
