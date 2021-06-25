@@ -42,7 +42,7 @@ nav-bar의 아이콘만 변경하고 status-bar, menu-bar, nav-bar를 재사용�
 
 
 
-
+            
 ***
 인터넷을 참고하여 HTML과 CSS를 이용해 카카오톡 UI 몇 페이지를 따라해봤다.
 주로 사용한 태그는 div, span, a이다.
