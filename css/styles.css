@@ -15,6 +15,7 @@
 @import "screens/chats.css";
 @import "screens/find.css";
 @import "screens/more.css";
+@import "screens/settings.css";
 body {
   font-family: "Open Sans Condensed", sans-serif;
   height: 1000vh;
@@ -22,4 +23,5 @@ body {
 
 a {
   text-decoration: none;
+  color: black;
 }
